@@ -1,0 +1,6 @@
+	<appSettings>
+		<add key="sConnectionString" value="uid=webclient_MRO;pwd=icc48*PLX;server=sgsql06l;database=MRO_Facilities" />
+		<add key="bSingleSessionCookie" value="1" />
+		<add key="NewRelic.AppName" value="ROI-1172,ROI" />
+		<add key="sPGPKeysDirectory" value="\\sgsan04a\WEBDocs\ISysDocs\Secure\PGPKeys"/>
+	</appSettings>
